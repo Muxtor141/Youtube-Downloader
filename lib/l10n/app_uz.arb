@@ -1,0 +1,90 @@
+{
+  "title": "Youtube Downloader",
+  "startSearch": "Qidirishni boshlash",
+
+  "settings": "Sozlamalar",
+  "darkMode": "Tungi rejim",
+  "ffmpegContainer": "ffmpeg formati",
+  "ffmpegDescription": "Bu ikki media birlashtirilgandan (audio+video) keyingi holat formati",
+  "ffmpegNotFound": "FFMPEG  PATH da topilmadi",
+  "language": "Til",
+  "downloadDir": "Yuklash manzili",
+  "selectDownloadDir": "Yuklash manzilini tanlang",
+  "invalidDir": "Mavjud bo'lmagan papka",
+
+  "permissionError": "Fayllarni yuklash uchun tizimdan saqlash uchun ruxsat kerak!",
+
+
+  "downloads": "Yuklanganlar",
+  "author": "Muallif",
+
+  "startDownload": "Yuklash boshlandi: {title}",
+  "@startDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  },
+
+  "failDownload": "Yuklashda xatolik: {title}",
+  "@failDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  },
+
+  "cancelDownload": "Yuklash to'xtatildi: {title}",
+  "@cancelDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  },
+
+  "finishDownload": "Yuklash yakunlandi: {title}",
+  "@finishDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  },
+
+  "startMerge": "Birlashtirish faylari: {title}",
+  "@startMerge": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  },
+
+  "cancelMerge": "Birlashtirish to'xtatildi: {title}",
+  "@cancelMerge": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  },
+
+  "finishMerge": "Video tayyorlandi: {title}",
+  "@finishMerge": {
+    "placeholders": {
+      "title": {
+        "example": "Eng yaxshi video!",
+        "description": "Video nomi"
+      }
+    }
+  }
+}

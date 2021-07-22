@@ -1,0 +1,89 @@
+{
+  "title": "Youtube Downloader",
+  "startSearch": "Start searching!",
+
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "ffmpegContainer": "ffmpeg container",
+  "ffmpegDescription": "This is the output format when two tracks (audio + video) are merged",
+  "ffmpegNotFound": "FFMPEG not found in PATH",
+  "language": "Language",
+  "downloadDir": "Download Directory",
+  "selectDownloadDir": "Select download directory",
+  "invalidDir": "Invalid directory",
+
+  "downloads": "Downloads",
+  "author": "Author",
+
+  "permissionError": "The app needs the storage permission to download files!",
+
+  "startDownload": "Started downloading: {title}",
+  "@startDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  },
+
+  "failDownload": "Downloading failed: {title}",
+  "@failDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  },
+
+  "cancelDownload": "Downloading cancelled: {title}",
+  "@cancelDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  },
+
+  "finishDownload": "Downloading finished: {title}",
+  "@finishDownload": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  },
+
+  "startMerge": "Merging tracks of: {title}",
+  "@startMerge": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  },
+
+  "cancelMerge": "Cancelled merge of: {title}",
+  "@cancelMerge": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  },
+
+  "finishMerge": "Merge finished: {title}",
+  "@finishMerge": {
+    "placeholders": {
+      "title": {
+        "example": "Best video ever",
+        "description": "Video title"
+      }
+    }
+  }
+}

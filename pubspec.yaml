@@ -1,0 +1,44 @@
+name: youtube_downloader_flutter
+description: Downloads videos from youtube with ease!
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_hooks: ^0.16.0
+  hooks_riverpod: ^0.14.0+3
+  youtube_explode_dart: ^1.9.9
+  stream_transform: ^2.0.0
+  path_provider: ^2.0.1
+  path: ^1.8.0
+  shared_preferences: ^2.0.5
+  file_picker: ^3.0.3
+  collection: ^1.15.0
+  json_annotation: ^4.0.1
+  url_launcher: ^6.0.3
+  intl: ^0.17.0
+  flutter_ffmpeg: ^0.4.0
+  permission_handler: ^7.1.0
+  open_file: ^3.2.0
+  webview_flutter: ^2.0.9
+
+
+dev_dependencies:
+  build_runner: ^2.0.1
+  json_serializable: ^4.1.1
+
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/multimedia.png
