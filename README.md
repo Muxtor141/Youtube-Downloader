@@ -1,5 +1,10 @@
 # Youtube Downloader
- An to download videos as audio and video from Youtube platform
+Flutter app to download videos from Youtube platform with different kind of qualities ,includes .uz and .eng languages ,
+This application is modified version of app that represented by youtube_explode_dart package owners.
 
-![PXL_20210615_145826715](https://user-images.githubusercontent.com/71814235/126663433-3221e490-f867-48ca-b40f-0820a75b4a32.jpg)
+![dark_youtube](https://user-images.githubusercontent.com/71814235/126665178-a428ec1e-49b4-41d0-bad1-7e4c12f1519c.jpg) ![dark_downloads](https://user-images.githubusercontent.com/71814235/126665575-59751e4c-8808-4cfe-b8b6-71619b3da46b.jpg)
+![dark_settings](https://user-images.githubusercontent.com/71814235/126665597-027d04cf-1999-469b-a4bc-70538ce383cc.jpg)
+
+
+
 
